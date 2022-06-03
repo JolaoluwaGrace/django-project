@@ -1,0 +1,8 @@
+# don't track database
+db.sqlite3
+
+#exclude virtual environment
+venv/
+
+#exclude cached modules
+*/__pycache__/*
